@@ -40,7 +40,7 @@ osmCode_definition:
   grid_l0_cell_sci_base: 00 01 02 03 04 05 06 07 08 09 0a 0b 0c 0d 0e 0f 10 11
   sci_base: 16h1c
   sci_sep: +
-  sci_size_min: 1
+  sci_size_min: 2
   sci_size_max: 12
   log_base:
   log_sep:
