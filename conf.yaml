@@ -47,6 +47,7 @@ afaCode_definition:
   sci_size_max: 12
   log_base: 32nvu
   log_sep: ~
+  intlevel: 75
 
 srid_official:
   equalarea: 952019
