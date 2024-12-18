@@ -1,0 +1,6 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+3359944,76,-10,Centro-Oeste,BR,CO,980175,centro.oeste,,-1,
+3360429,76,-20,Nordeste,BR,NE,1136194,nordeste,,-1,
+3360778,76,-30,Norte,BR,N,478465,norte,,-1,
+3073228,76,-40,Sudeste,BR,SE,1088815,sudeste,,-1,
+2844750,76,-50,Sul,BR,S,1060042,sul,,-1,
