@@ -1,0 +1,21 @@
+jurisdiction,name,geo_uri,wikidata_id,ibge_cell_nome,afaCodes_b16h_1m
+BR-AC-RioBranco,Universidade Federal do Acre (UFAC),"geo:-9.9565625,-67.8649375",10387829,200ME35058N101904,470a80463f9
+BR-AM-Manaus,Teatro Amazonas,"geo:-3.130278,-60.023333",1434444,200ME43326N109848,140ee7edc3e
+BR-AP-Oiapoque,Aeroporto De Oiapoque,"geo:3.86139,-51.79611",9586256,200ME52502N117578,2b4e45db81e
+BR-AP-Oiapoque,Ponte Binacional Franco-Brasileira,"geo:3.8569,-51.82561",996255,200ME52468N117572,2b4e406067b
+BR-BA-Salvador,Marco da Fundação da Cidade do Salvador,"geo:-13.002025,-38.532972",58877523,200ME66518N98418,bfa812e4385
+BR-CE-Fortaleza,Arena Castelão,"geo:-3.807267,-38.522481",958185,200ME67098N108696,7fa5f3330b6
+BR-DF,Palácio Nereu Ramos,"geo:-15.799717,-47.864131",4155889,200ME56486N95664,ada720f531f
+BR-ES-Vitoria,Píer de Iemanjá,"geo:-20.292149,-40.28804",28055077,200ME64246N90366,bug
+BR-MA-SaoLuis,Teatro Arthur Azevedo,"geo:-2.529028,-44.302476",10378807,200ME60766N110400,307b0ef194b
+BR-MT-Cuiaba,Arena Pantanal,"geo:-15.603056,-56.120556",641448,200ME47756N95948,9dfb5039a45
+BR-PA-Belem,Bosque Rodrigues Alves,"geo:-1.43056,-48.4569",10305532,200ME56178N111740,25ab2cd94bd
+BR-PE-FernandoNoronha,Aeroporto de Fernando de Noronha,"geo:-3.854722,-32.428333",3312795,200ME73816N108196,8bd2f198d3b
+BR-PR-FozIguacu,Marco das Três Fronteiras,"geo:-25.5925,-54.593056",2166850,200ME49394N84866,d89f781f191
+BR-RJ-RioJaneiro,Cristo Redentor,"geo:-22.952331,-43.210369",79961,200ME61098N87552,eadfa5922ca
+BR-RN-Natal,Fortaleza dos Reis Magos,"geo:-5.756389,-35.194722",3304114,200ME70624N106304,88e91be3744
+BR-RR-BoaVista,Aeroporto Internacional de Boa Vista,"geo:2.84139,-60.69222",597669,200ME42428N116390,19dbb0a2c3d
+BR-RR-Uiramuta,Parque Nacional do Monte Roraima,"geo:5.20194,-60.7369",578202,1KME4231N11893,1bda63a1eeb
+BR-RS-SantaVitoriaPalmar,Farol da Barra do Chuí,"geo:-33.7417,-53.3736",2839542,200ME50618N76154,bug
+BR-RS-Uraguaiana,Aeroporto Internacional de Uruguaiana,"geo:-29.78333,-57.03694",2744827,200ME46956N80316,c5ead6af863
+BR-SP-SaoPaulo,Marco Zero de São Paulo,"geo:-23.550385,-46.633956",10325364,200ME57560N87008,dfc16b72a79
