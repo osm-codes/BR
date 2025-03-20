@@ -48,6 +48,10 @@ afaCode_definition:
   log_base: 32nvu
   log_sep: ~
   intlevel: 75
+  example_city_isolabel_ext: BR-AC-SenaMadureira
+  example_city_intlevel: 145
+  example_cities_numbers: 2916104 3552205
+  raster_delta: 28024.0 42328.0
 
 srid_official:
   equalarea: 952019
