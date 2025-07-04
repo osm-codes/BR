@@ -80,7 +80,7 @@ t,5,BR-AC-RioBranco,BR-1200401,2023-11-30,f
 t,2,BR-AC-RioBranco,BR-AC-RBO,2022-10-05,t
 t,4,BR-AC-RioBranco,BR-AC-Riobranco,2023-07-20,f
 f,4,BR-AC-RioBranco,BR-Riobranco,2023-07-19,f
-t,5,BR-AC-RioBranco,br-ac-ac,2023-11-30,f
+t,5,BR-AC-RioBranco,BR-AC-AC,2023-11-30,f
 t,5,BR-AC-RioBranco,br;ac;rbo,2023-11-30,f
 t,5,BR-AC-RioBranco,br;ac;rio.branco,2023-11-30,f
 t,5,BR-AC-RioBranco,br;acre;rio.branco,2023-11-30,f
@@ -383,7 +383,7 @@ t,5,BR-AL-Maceio,BR-2704302,2023-11-30,f
 t,2,BR-AL-Maceio,BR-AL-MCO,2022-10-05,t
 t,4,BR-AL-Maceio,BR-AL-Maceio,2023-07-20,f
 t,4,BR-AL-Maceio,BR-Maceio,2023-07-19,f
-t,5,BR-AL-Maceio,br-al-al,2023-11-30,f
+t,5,BR-AL-Maceio,BR-AL-AL,2023-11-30,f
 t,5,BR-AL-Maceio,BR-Maceio,2023-11-30,f
 t,5,BR-AL-Maceio,br;al;maceio,2023-11-30,f
 t,5,BR-AL-Maceio,br;al;mco,2023-11-30,f
@@ -915,7 +915,7 @@ t,5,BR-AM-Manaus,BR-1302603,2023-11-30,f
 t,2,BR-AM-Manaus,BR-AM-MNS,2022-10-05,t
 t,4,BR-AM-Manaus,BR-AM-Manaus,2023-07-20,f
 t,4,BR-AM-Manaus,BR-Manaus,2023-07-19,f
-t,5,BR-AM-Manaus,br-am-am,2023-11-30,f
+t,5,BR-AM-Manaus,BR-AM-AM,2023-11-30,f
 t,5,BR-AM-Manaus,BR-Manaus,2023-11-30,f
 t,5,BR-AM-Manaus,br;am;manaus,2023-11-30,f
 t,5,BR-AM-Manaus,br;am;mns,2023-11-30,f
@@ -1102,7 +1102,7 @@ t,5,BR-AP-Macapa,BR-1600303,2023-11-30,f
 t,2,BR-AP-Macapa,BR-AP-MPA,2022-10-05,t
 t,4,BR-AP-Macapa,BR-AP-Macapa,2023-07-20,f
 t,4,BR-AP-Macapa,BR-Macapa,2023-07-19,f
-t,5,BR-AP-Macapa,br-ap-ap,2023-11-30,f
+t,5,BR-AP-Macapa,BR-AP-AP,2023-11-30,f
 t,5,BR-AP-Macapa,BR-Macapa,2023-11-30,f
 t,5,BR-AP-Macapa,br;amapa;macapa,2023-11-30,f
 t,5,BR-AP-Macapa,br;ap;macapa,2023-11-30,f
@@ -3111,7 +3111,7 @@ t,5,BR-BA-Salvador,BR-2927408,2023-11-30,f
 t,2,BR-BA-Salvador,BR-BA-SDR,2022-10-05,t
 t,4,BR-BA-Salvador,BR-BA-Salvador,2023-07-20,f
 t,4,BR-BA-Salvador,BR-Salvador,2023-07-19,f
-t,5,BR-BA-Salvador,br-ba-ba,2023-11-30,f
+t,5,BR-BA-Salvador,BR-BA-BA,2023-11-30,f
 t,5,BR-BA-Salvador,BR-Salvador,2023-11-30,f
 t,5,BR-BA-Salvador,br;ba;salvador,2023-11-30,f
 t,5,BR-BA-Salvador,br;ba;sdr,2023-11-30,f
@@ -3919,7 +3919,7 @@ t,5,BR-CE-Fortaleza,BR-2304400,2023-11-30,f
 t,2,BR-CE-Fortaleza,BR-CE-FLA,2022-10-05,t
 t,4,BR-CE-Fortaleza,BR-CE-Fortal,2023-07-20,f
 t,4,BR-CE-Fortaleza,BR-Fortal,2023-07-19,f
-t,5,BR-CE-Fortaleza,br-ce-ce,2023-11-30,f
+t,5,BR-CE-Fortaleza,BR-CE-CE,2023-11-30,f
 t,5,BR-CE-Fortaleza,BR-Fortaleza,2023-11-30,f
 t,5,BR-CE-Fortaleza,br;ce;fla,2023-11-30,f
 t,5,BR-CE-Fortaleza,br;ce;fortaleza,2023-11-30,f
@@ -4657,7 +4657,7 @@ t,2,BR-DF-Brasilia,BR-DF-BSA,2022-10-05,t
 t,4,BR-DF-Brasilia,BR-DF-Bsb,2023-07-20,f
 t,5,BR-DF-Brasilia,BR-Brasilia,2023-11-30,f
 t,5,BR-DF-Brasilia,BR-Brasilia,2023-11-30,f
-t,5,BR-DF-Brasilia,br-df-df,2023-11-30,f
+t,5,BR-DF-Brasilia,BR-DF-DF,2023-11-30,f
 t,5,BR-DF-Brasilia,br;df;brasilia,2023-11-30,f
 t,5,BR-DF-Brasilia,br;df;bsa,2023-11-30,f
 t,5,BR-DF-Brasilia,br;distrito.federal;brasilia,2023-11-30,f
@@ -5104,7 +5104,7 @@ t,5,BR-ES-Vitoria,BR-3205309,2023-11-30,f
 t,2,BR-ES-Vitoria,BR-ES-VTA,2022-10-05,t
 t,4,BR-ES-Vitoria,BR-ES-Vix,2023-07-20,f
 t,4,BR-ES-Vitoria,BR-Vix,2023-07-19,f
-t,5,BR-ES-Vitoria,br-es-es,2023-11-30,f
+t,5,BR-ES-Vitoria,BR-ES-ES,2023-11-30,f
 t,5,BR-ES-Vitoria,BR-Vitoria,2023-11-30,f
 t,5,BR-ES-Vitoria,br;es;vitoria,2023-11-30,f
 t,5,BR-ES-Vitoria,br;es;vta,2023-11-30,f
@@ -5639,7 +5639,7 @@ t,5,BR-GO-Goiania,BR-5208707,2023-11-30,f
 t,2,BR-GO-Goiania,BR-GO-GNA,2022-10-05,t
 t,4,BR-GO-Goiania,BR-GO-Goiania,2023-07-20,f
 f,4,BR-GO-Goiania,BR-Goiania,2023-07-19,f
-t,5,BR-GO-Goiania,br-go-go,2023-11-30,f
+t,5,BR-GO-Goiania,BR-GO-GO,2023-11-30,f
 t,5,BR-GO-Goiania,BR-Goiania,2023-11-30,f
 t,5,BR-GO-Goiania,br;go;gna,2023-11-30,f
 t,5,BR-GO-Goiania,br;go;goiania,2023-11-30,f
@@ -7451,7 +7451,7 @@ t,5,BR-MA-SaoLuis,BR-2111300,2023-11-30,f
 t,2,BR-MA-SaoLuis,BR-MA-SLS,2022-10-05,t
 t,4,BR-MA-SaoLuis,BR-MA-Slz,2023-07-20,f
 t,4,BR-MA-SaoLuis,BR-Slz,2023-07-19,f
-t,5,BR-MA-SaoLuis,br-ma-ma,2023-11-30,f
+t,5,BR-MA-SaoLuis,BR-MA-MA,2023-11-30,f
 t,5,BR-MA-SaoLuis,BR-SaoLuis,2023-11-30,f
 t,5,BR-MA-SaoLuis,br;ma;sao.luis,2023-11-30,f
 t,5,BR-MA-SaoLuis,br;ma;sls,2023-11-30,f
@@ -7990,7 +7990,7 @@ t,4,BR-MG-BeloHorizonte,BR-Bhz,2023-07-19,f
 t,2,BR-MG-BeloHorizonte,BR-MG-BHE,2022-10-05,t
 t,4,BR-MG-BeloHorizonte,BR-MG-Bhz,2023-07-20,f
 t,5,BR-MG-BeloHorizonte,BR-BeloHorizonte,2023-11-30,f
-t,5,BR-MG-BeloHorizonte,br-mg-mg,2023-11-30,f
+t,5,BR-MG-BeloHorizonte,BR-MG-MG,2023-11-30,f
 t,5,BR-MG-BeloHorizonte,br;mg;belo.horizonte,2023-11-30,f
 t,5,BR-MG-BeloHorizonte,br;mg;bhe,2023-11-30,f
 t,5,BR-MG-BeloHorizonte,br;minas.gerais;belo.horizonte,2023-11-30,f
@@ -12529,7 +12529,7 @@ t,5,BR-MS-CampoGrande,BR-5002704,2023-11-30,f
 t,2,BR-MS-CampoGrande,BR-MS-CPE,2022-10-05,t
 t,4,BR-MS-CampoGrande,BR-MS-Morena,2023-07-20,f
 t,4,BR-MS-CampoGrande,BR-Morena,2023-07-19,f
-t,5,BR-MS-CampoGrande,br-ms-ms,2023-11-30,f
+t,5,BR-MS-CampoGrande,BR-MS-MS,2023-11-30,f
 t,5,BR-MS-CampoGrande,br;mato.grosso.sul;campo.grande,2023-11-30,f
 t,5,BR-MS-CampoGrande,br;ms;campo.grande,2023-11-30,f
 t,5,BR-MS-CampoGrande,br;ms;cpe,2023-11-30,f
@@ -13075,7 +13075,7 @@ t,4,BR-MT-Cuiaba,BR-Cuiaba,2023-07-19,f
 t,2,BR-MT-Cuiaba,BR-MT-CBA,2022-10-05,t
 t,4,BR-MT-Cuiaba,BR-MT-Cuiaba,2023-07-20,f
 t,5,BR-MT-Cuiaba,BR-Cuiaba,2023-11-30,f
-t,5,BR-MT-Cuiaba,br-mt-mt,2023-11-30,f
+t,5,BR-MT-Cuiaba,BR-MT-MT,2023-11-30,f
 t,5,BR-MT-Cuiaba,br;mato.grosso;cuiaba,2023-11-30,f
 t,5,BR-MT-Cuiaba,br;mt;cba,2023-11-30,f
 t,5,BR-MT-Cuiaba,br;mt;cuiaba,2023-11-30,f
@@ -13719,7 +13719,7 @@ t,5,BR-PA-Belem,BR-1501402,2023-11-30,f
 f,4,BR-PA-Belem,BR-Belem,2023-07-19,f
 t,2,BR-PA-Belem,BR-PA-BLM,2022-10-05,t
 t,4,BR-PA-Belem,BR-PA-Belem,2023-07-20,f
-t,5,BR-PA-Belem,br-pa-pa,2023-11-30,f
+t,5,BR-PA-Belem,BR-PA-PA,2023-11-30,f
 t,5,BR-PA-Belem,br;pa;belem,2023-11-30,f
 t,5,BR-PA-Belem,br;pa;blm,2023-11-30,f
 t,5,BR-PA-Belem,br;para;belem,2023-11-30,f
@@ -14899,7 +14899,7 @@ t,4,BR-PB-JoaoPessoa,BR-Jampa,2023-07-19,f
 t,2,BR-PB-JoaoPessoa,BR-PB-JPA,2022-10-05,t
 t,4,BR-PB-JoaoPessoa,BR-PB-Jampa,2023-07-20,f
 t,5,BR-PB-JoaoPessoa,BR-JoaoPessoa,2023-11-30,f
-t,5,BR-PB-JoaoPessoa,br-pb-pb,2023-11-30,f
+t,5,BR-PB-JoaoPessoa,BR-PB-PB,2023-11-30,f
 t,5,BR-PB-JoaoPessoa,br;paraiba;joao.pessoa,2023-11-30,f
 t,5,BR-PB-JoaoPessoa,br;pb;joao.pessoa,2023-11-30,f
 t,5,BR-PB-JoaoPessoa,br;pb;jpa,2023-11-30,f
@@ -16322,7 +16322,7 @@ t,5,BR-PE-Recife,BR-2611606,2023-11-30,f
 t,2,BR-PE-Recife,BR-PE-RCE,2022-10-05,t
 t,4,BR-PE-Recife,BR-PE-Recife,2023-07-20,f
 t,4,BR-PE-Recife,BR-Recife,2023-07-19,f
-t,5,BR-PE-Recife,br-pe-pe,2023-11-30,f
+t,5,BR-PE-Recife,BR-PE-PE,2023-11-30,f
 t,5,BR-PE-Recife,BR-Recife,2023-11-30,f
 t,5,BR-PE-Recife,br;pe;rce,2023-11-30,f
 t,5,BR-PE-Recife,br;pe;recife,2023-11-30,f
@@ -17701,7 +17701,7 @@ t,5,BR-PI-Teresina,BR-2211001,2023-11-30,f
 t,2,BR-PI-Teresina,BR-PI-TSA,2022-10-05,t
 t,4,BR-PI-Teresina,BR-PI-The,2023-07-20,f
 t,4,BR-PI-Teresina,BR-The,2023-07-19,f
-t,5,BR-PI-Teresina,br-pi-pi,2023-11-30,f
+t,5,BR-PI-Teresina,BR-PI-PI,2023-11-30,f
 t,5,BR-PI-Teresina,BR-Teresina,2023-11-30,f
 t,5,BR-PI-Teresina,br;pi;teresina,2023-11-30,f
 t,5,BR-PI-Teresina,br;pi;tsa,2023-11-30,f
@@ -18278,7 +18278,7 @@ t,4,BR-PR-Curitiba,BR-Curitiba,2023-07-19,f
 t,2,BR-PR-Curitiba,BR-PR-CTA,2022-10-05,t
 t,4,BR-PR-Curitiba,BR-PR-Curitiba,2023-07-20,f
 t,5,BR-PR-Curitiba,BR-Curitiba,2023-11-30,f
-t,5,BR-PR-Curitiba,br-pr-pr,2023-11-30,f
+t,5,BR-PR-Curitiba,BR-PR-PR,2023-11-30,f
 t,5,BR-PR-Curitiba,br;parana;curitiba,2023-11-30,f
 t,5,BR-PR-Curitiba,br;pr;cta,2023-11-30,f
 t,5,BR-PR-Curitiba,br;pr;curitiba,2023-11-30,f
@@ -20382,7 +20382,7 @@ t,5,BR-RJ-RioJaneiro,BR-RJ-RIO,2023-11-30,f
 t,2,BR-RJ-RioJaneiro,BR-RJ-Rio,2022-10-19,t
 t,4,BR-RJ-RioJaneiro,BR-Rio,2023-07-19,f
 t,5,BR-RJ-RioJaneiro,BR-RioJaneiro,2023-11-30,f
-t,5,BR-RJ-RioJaneiro,br-rj-rj,2023-11-30,f
+t,5,BR-RJ-RioJaneiro,BR-RJ-RJ,2023-11-30,f
 t,5,BR-RJ-RioJaneiro,br;rio.janeiro;rio.janeiro,2023-11-30,f
 t,5,BR-RJ-RioJaneiro,br;rj;rio,2023-11-30,f
 t,5,BR-RJ-RioJaneiro,br;rj;rio.janeiro,2023-11-30,f
@@ -21021,7 +21021,7 @@ t,4,BR-RN-Natal,BR-Natal,2023-07-19,f
 t,2,BR-RN-Natal,BR-RN-NTL,2022-10-05,t
 t,4,BR-RN-Natal,BR-RN-Natal,2023-07-20,f
 t,5,BR-RN-Natal,BR-Natal,2023-11-30,f
-t,5,BR-RN-Natal,br-rn-rn,2023-11-30,f
+t,5,BR-RN-Natal,BR-RN-RN,2023-11-30,f
 t,5,BR-RN-Natal,br;rio.grande.norte;natal,2023-11-30,f
 t,5,BR-RN-Natal,br;rn;natal,2023-11-30,f
 t,5,BR-RN-Natal,br;rn;ntl,2023-11-30,f
@@ -21628,7 +21628,7 @@ t,4,BR-RO-PortoVelho,BR-Pvh,2023-07-19,f
 t,2,BR-RO-PortoVelho,BR-RO-PVO,2022-10-05,t
 t,4,BR-RO-PortoVelho,BR-RO-Pvh,2023-07-20,f
 t,5,BR-RO-PortoVelho,BR-PortoVelho,2023-11-30,f
-t,5,BR-RO-PortoVelho,br-ro-ro,2023-11-30,f
+t,5,BR-RO-PortoVelho,BR-RO-RO,2023-11-30,f
 t,5,BR-RO-PortoVelho,br;ro;porto.velho,2023-11-30,f
 t,5,BR-RO-PortoVelho,br;ro;pvo,2023-11-30,f
 t,5,BR-RO-PortoVelho,br;rondonia;porto.velho,2023-11-30,f
@@ -21715,7 +21715,7 @@ t,5,BR-RR-BoaVista,BR-1400100,2023-11-30,f
 f,4,BR-RR-BoaVista,BR-Boavista,2023-07-19,f
 t,2,BR-RR-BoaVista,BR-RR-BVA,2022-10-05,t
 t,4,BR-RR-BoaVista,BR-RR-Boavista,2023-07-20,f
-t,5,BR-RR-BoaVista,br-rr-rr,2023-11-30,f
+t,5,BR-RR-BoaVista,BR-RR-RR,2023-11-30,f
 t,5,BR-RR-BoaVista,br;roraima;boa.vista,2023-11-30,f
 t,5,BR-RR-BoaVista,br;rr;boa.vista,2023-11-30,f
 t,5,BR-RR-BoaVista,br;rr;bva,2023-11-30,f
@@ -23489,7 +23489,7 @@ t,4,BR-RS-PortoAlegre,BR-Poa,2023-07-19,f
 t,2,BR-RS-PortoAlegre,BR-RS-PAE,2022-10-05,t
 t,4,BR-RS-PortoAlegre,BR-RS-Poa,2023-07-20,f
 t,5,BR-RS-PortoAlegre,BR-PortoAlegre,2023-11-30,f
-t,5,BR-RS-PortoAlegre,br-rs-rs,2023-11-30,f
+t,5,BR-RS-PortoAlegre,BR-RS-RS,2023-11-30,f
 t,5,BR-RS-PortoAlegre,br;rio.grande.sul;porto.alegre,2023-11-30,f
 t,5,BR-RS-PortoAlegre,br;rs;pae,2023-11-30,f
 t,5,BR-RS-PortoAlegre,br;rs;porto.alegre,2023-11-30,f
@@ -24875,7 +24875,7 @@ t,4,BR-SC-Florianopolis,BR-Floripa,2023-07-19,f
 t,2,BR-SC-Florianopolis,BR-SC-FNS,2022-10-05,t
 t,4,BR-SC-Florianopolis,BR-SC-Floripa,2023-07-20,f
 t,5,BR-SC-Florianopolis,BR-Florianopolis,2023-11-30,f
-t,5,BR-SC-Florianopolis,br-sc-sc,2023-11-30,f
+t,5,BR-SC-Florianopolis,BR-SC-SC,2023-11-30,f
 t,5,BR-SC-Florianopolis,br;santa.catarina;florianopolis,2023-11-30,f
 t,5,BR-SC-Florianopolis,br;sc;florianopolis,2023-11-30,f
 t,5,BR-SC-Florianopolis,br;sc;fns,2023-11-30,f
@@ -26004,7 +26004,7 @@ t,4,BR-SE-Aracaju,BR-Aju,2023-07-19,f
 t,2,BR-SE-Aracaju,BR-SE-AJU,2022-10-05,t
 t,4,BR-SE-Aracaju,BR-SE-Aju,2023-07-20,f
 t,5,BR-SE-Aracaju,BR-Aracaju,2023-11-30,f
-t,5,BR-SE-Aracaju,br-se-se,2023-11-30,f
+t,5,BR-SE-Aracaju,BR-SE-SE,2023-11-30,f
 t,5,BR-SE-Aracaju,br;se;aju,2023-11-30,f
 t,5,BR-SE-Aracaju,br;se;aracaju,2023-11-30,f
 t,5,BR-SE-Aracaju,br;sergipe;aracaju,2023-11-30,f
@@ -29802,7 +29802,7 @@ t,2,BR-SP-SaoPaulo,BR-SP-SPA,2022-10-05,t
 t,4,BR-SP-SaoPaulo,BR-SP-Sampa,2023-07-20,f
 t,4,BR-SP-SaoPaulo,BR-Sampa,2023-07-19,f
 t,5,BR-SP-SaoPaulo,BR-SaoPaulo,2023-11-30,f
-t,5,BR-SP-SaoPaulo,br-sp-sp,2023-11-30,f
+t,5,BR-SP-SaoPaulo,BR-SP-SP,2023-11-30,f
 t,5,BR-SP-SaoPaulo,br;sao.paulo;sao.paulo,2023-11-30,f
 t,5,BR-SP-SaoPaulo,br;sp;sao.paulo,2023-11-30,f
 t,5,BR-SP-SaoPaulo,br;sp;spa,2023-11-30,f
@@ -30719,7 +30719,7 @@ t,5,BR-TO-Palmas,BR-1721000,2023-11-30,f
 t,4,BR-TO-Palmas,BR-Palmas,2023-07-19,f
 t,2,BR-TO-Palmas,BR-TO-PMJ,2022-10-05,t
 t,4,BR-TO-Palmas,BR-TO-Palmas,2023-07-20,f
-t,5,BR-TO-Palmas,br-to-to,2023-11-30,f
+t,5,BR-TO-Palmas,BR-TO-TO,2023-11-30,f
 t,5,BR-TO-Palmas,br;to;palmas,2023-11-30,f
 t,5,BR-TO-Palmas,br;to;pmj,2023-11-30,f
 t,5,BR-TO-Palmas,br;tocantins;palmas,2023-11-30,f
