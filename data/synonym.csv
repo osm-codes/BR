@@ -23485,7 +23485,7 @@ t,5,BR-RS-Portao,br;rio.grande.sul;portao,2023-11-30,f
 t,5,BR-RS-Portao,br;rs;portao,2023-11-30,f
 t,5,BR-RS-Portao,br;rs;pto,2023-11-30,f
 t,5,BR-RS-PortoAlegre,BR-4314902,2023-11-30,f
-f,4,BR-RS-PortoAlegre,BR-Poa,2023-07-19,f
+t,4,BR-RS-PortoAlegre,BR-Poa,2023-07-19,f
 t,2,BR-RS-PortoAlegre,BR-RS-PAE,2022-10-05,t
 t,4,BR-RS-PortoAlegre,BR-RS-Poa,2023-07-20,f
 t,5,BR-RS-PortoAlegre,BR-PortoAlegre,2023-11-30,f
@@ -29091,7 +29091,7 @@ t,5,BR-SP-Platina,br;sp;platina,2023-11-30,f
 t,5,BR-SP-Platina,br;sp;ptn,2023-11-30,f
 t,5,BR-SP-Poa,BR-3539806,2023-11-30,f
 t,2,BR-SP-Poa,BR-SP-POA,2022-10-05,t
-t,5,BR-SP-Poa,BR-Poa,2023-11-30,f
+f,5,BR-SP-Poa,BR-Poa,2023-11-30,f
 t,5,BR-SP-Poa,br;sao.paulo;poa,2023-11-30,f
 t,5,BR-SP-Poa,br;sp;poa,2023-11-30,f
 t,5,BR-SP-Poloni,BR-3539905,2023-11-30,f
