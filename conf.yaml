@@ -33,17 +33,16 @@ afaCode_status:
 
 afaCode_definition:
   srid: 10857
-  grid_xy_origin: 2715000 6727000
+  grid_x0y0: 2715000 6727000
   grid_cell_side: 1048576
-  grid_l0_cell: 40 41 42 43 30 31 32 33 34 21 22 23 11 12 13 2 44 24
-  cover_id: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 125 123 122
-  grid_l0_cell_sci_base: 0 1 2 3 4 5 6 7 8 9 a b c d e fT fN fP
+  grid_id: 40 41 42 43 30 31 32 33 34 21 22 23 11 12 13 2 44 24
+  cover_id: 0 1 2 3 4 5 6 7 8 9 a b c d e fT fN fP
   territorial_sea_in_l0_coverage: yes
   eez_in_l0_coverage: no
   sci_base: 16h
   sci_sep: +
-  sci_size_min: 2
-  sci_size_max: 12
+  sci_size_min: 1
+  sci_size_max: 11
   log_base: 32nvu
   log_sep: ~
   intlevel: 75
