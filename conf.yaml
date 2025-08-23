@@ -31,7 +31,7 @@ afaCode_status:
   proposal_status: testing
   proposal_local_adoption: SP-MogiCruzes
 
-afaCode_definition:
+dngs_definition:
   srid: 10857
   grid_x0y0: 2715000 6727000
   grid_cell_side: 1048576
