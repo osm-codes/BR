@@ -60,7 +60,7 @@ utm_grid_cover: 18L 18M 19L 19M 20K 20L 20M 20N 21J 21K 21L 21M 21N 22H 22J 22K 
 local_srid_def:
   id: 10857
   title: "IBGE Albers, official urn:ogc:def:crs:EPSG::10857"
-  auth_name: BR:IBGE
+  auth_name: EPSG
   auth_srid: 10857
   proj4text: "+proj=aea +lat_0=-12 +lon_0=-54 +lat_1=-2 +lat_2=-22 +x_0=5000000 +y_0=10000000 +ellps=WGS84 +units=m +no_defs"
   srtext_PROJCS:
